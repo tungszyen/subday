@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap');
+
+* {
+    font-family: 'Satisfy', cursive;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: black;
+    color: white;
+ 
+    
+}
+.content1 {
+    padding: 20px;
+    padding-top: 100px;
+    margin: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(content1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.content1 h {
+    font-size: 70px;
+    color: yellow;
+}
+.content1 p {
+    font-size: 20px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.content2 {
+    padding: 50px;
+    padding-top: 100px;
+    margin: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(content2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content2 h {
+    font-size: 70px;
+    color: aqua;
+}
+.content2 p {
+    font-size: 20px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.content3 {
+    padding: 50px;
+    padding-top: 100px;
+    margin: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(content3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content3 h {
+    font-size: 70px;
+    color: hotpink;
+}
+.content3 p {
+    font-size: 20px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.content4 {
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0px;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(content4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.content4 h {
+    font-size: 70px;
+    color: lawngreen;
+}
+.content4 p {
+    font-size: 20px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.content4 button {
+    background-color: transparent;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    padding: 10px;
+    font-family: cursive;
+    border: 3px solid white;
+    border-radius: 50px;
+    transition-duration: 1s;
+}
+.content4 button:hover {
+    color: red;
+    background-color: white;
+}
+.ending {
+    background-color: dimgrey;
+    color: black;
+    
+}
+.ending p {
+    font-family: monospace;
+    text-align: center;
+}
+
+
